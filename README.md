@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm simo zgaoua</h1>
-<h3 align="center">A passionate web developer from morocco</h3>
+<h3 align="center">A Software Engineer</h3>
 
-- 👯 I’m looking to collaborate on **web projects**
+- 👯 I’m looking to collaborate on **software projects**
 
 - 📫 How to reach me **m.zgaoua2001@gmail.com**
 
